@@ -1,0 +1,26 @@
+html, body {margin: 0; height: 100%; } 
+
+
+#home{
+    background-image:url('./Components/images/adult-car-finger-1252500.jpg');
+    background-size: cover;
+    height: 100%;
+    
+}
+
+#logo{
+    background-image: url("./Components/images/Halfway-logo.png");
+    background-repeat: no-repeat;
+}
+#rcorners2 {
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 20px; 
+    width: 100px
+}
+#text-page {
+    background-image:url("./Components//images/text-page-background.jpg");
+    background-size: cover;
+    height: 100%;
+}
